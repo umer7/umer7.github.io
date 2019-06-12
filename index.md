@@ -7,7 +7,7 @@ I love all things related to machine learning/Big Data/Salesforce.. I also love 
 
 I also occasionally Blogs at Medium and answer questions on Stack Overflow .
 
-## About
+## Highlights
 
 - Salesforce.com Consultant
 - Google Cloud Certified
@@ -21,9 +21,7 @@ I also occasionally Blogs at Medium and answer questions on Stack Overflow .
 - 70+ Open source contributions on GitHub
 
 ## Professional Experience
-- Technical Consultant at Tectonic 
-  - Salesforce.com
-  - Google Cloud Platform
+- Technical Consultant at Tectonic
 - Data Engineer at Botsify
 - Data Intern at Qordata
 
@@ -31,9 +29,27 @@ I also occasionally Blogs at Medium and answer questions on Stack Overflow .
 - Deep Convolutional Neural Network for multi class Text classification
 - Dynamic Web Crawler with Automation to download the specific pdf files for multiple websites.
 - Google Assistant Application with Cloud Firestore
-- Automated Data Visulazation on dynamic CSV files generated from Cloud Database
+- Automated Data Visualization  on dynamic CSV files generated from Cloud Database
 - ETL to extract Data from Dynamic Image files into Excel
 And many more....
+
+## Technology Expertise
+- Cloud
+  - Google Compute and App Engine
+  - Cloud Dataflow
+  - Cloud Postgres
+  - Heroku 
+  - Big Query (begineer)
+- Salesforce.com
+  - Einstein Analytics
+- Libraries and Framework (Python)
+  - Tensorflow , Keras , Scikitlearn
+  - NLTK , Spacy , Genism
+  - Flask 
+  - LightGBM 
+  - Bokeh , Seaborn ,plotly
+And many more....
+
 
 ## Blogs
 - [Text Summarization with Python](https://towardsdatascience.com/text-summarization-in-python-76c0a41f0dc4)
