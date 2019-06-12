@@ -3,7 +3,7 @@ layout: default
 ---
 ## Hello, There
   
-- Currently working as Salesforce.com Consultant
+- Salesforce.com Consultant
 - Google Cloud Certified
 - 25+ Certifications in Data Science ,Machine Learning,Deep learning
 - 2 years Python Experience
@@ -16,18 +16,20 @@ layout: default
 
 ## About
 
-I love all things related to machine learning/deep learning/data science.. I also love to build stuff for the web.
+I love all things related to machine learning/Big Data/Salesforce.. I also love to build stuff for the web and with Python.
 
-In my spare time I do Kaggle projects, Blogs at Medium and answering questions on Stack Overflow -
+I also occasionally Blogs at Medium and answer questions on Stack Overflow 
 
-I also occasionally write and produce electronic music.
 
 ## Work Experience
-- Technical Counsultant at Tectonic (Currently)
+- Technical Counsultant at Tectonic 
   - Salesforce.com
   - Google Cloud Platform
 - Data Engineer at Botsify
 - Data Intern at Qordata
+
+## Projects
+- Train DCNN
 
 ## Blogs
 - [Text Summarization with Python](https://towardsdatascience.com/text-summarization-in-python-76c0a41f0dc4)
