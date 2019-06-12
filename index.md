@@ -59,7 +59,19 @@ And many more....
 - [Web Services in Python](https://medium.com/@umerfarooq_26378/web-services-in-python-ef81a9067aaf)
 - [Python for Pdf](https://towardsdatascience.com/python-for-pdf-ef0fac2808b0)
 - [Python for Pdf](https://towardsdatascience.com/python-for-pdf-ef0fac2808b0)
+
 And many more....
+
+## Certifications
+- Machine Learning by Stanford University 
+- Data Engineering, Big Data and Machine Learning on GCP 
+- Deep Learning Specialization by deeplearning.ai 
+- Applied Data Science Specialization with Python by University of Michigan 
+- Data warehousing for Business Intelligence by University of Colorado
+
+And many more....
+
+
 
 ## Contact Me
 
