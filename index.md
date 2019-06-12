@@ -31,6 +31,7 @@ I also occasionally Blogs at Medium and answer questions on Stack Overflow .
 - Google Assistant Application with Cloud Firestore
 - Automated Data Visualization  on dynamic CSV files generated from Cloud Database
 - ETL to extract Data from Dynamic Image files into Excel
+
 And many more....
 
 ## Technology Expertise
