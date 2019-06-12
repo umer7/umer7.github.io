@@ -22,7 +22,7 @@ I also occasionally Blogs at Medium and answer questions on Stack Overflow
 
 
 ## Work Experience
-- Technical Counsultant at Tectonic 
+- Technical Consultant at Tectonic 
   - Salesforce.com
   - Google Cloud Platform
 - Data Engineer at Botsify
