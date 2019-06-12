@@ -1,0 +1,25 @@
+---
+# Main scss file
+---
+@charset "utf-8";
+
+@import
+  'normalize',
+  'solo',
+  'syntax';
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+
+  svg {
+    margin: 5px 10px;
+    fill: #999999;
+    transition: fill, 0.2s ease-in;
+  }
+  svg:hover {
+    fill: #555555;
+  }
+}

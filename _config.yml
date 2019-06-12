@@ -1,0 +1,10 @@
+# Site settings
+title: Leon Chen
+tag_text: Leon Chen
+description: Homepage of Leon Chen, co-founder and CEO of MD.ai.
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
