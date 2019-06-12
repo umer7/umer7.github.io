@@ -2,34 +2,38 @@
 layout: default
 ---
 ## Hello, There
-  
+
+I love all things related to machine learning/Big Data/Salesforce.. I also love to build stuff with Python and for the web  .
+
+I also occasionally Blogs at Medium and answer questions on Stack Overflow .
+
+## About
+
 - Salesforce.com Consultant
 - Google Cloud Certified
+- Top 8 % in Stack Overflow this Year
 - 25+ Certifications in Data Science ,Machine Learning,Deep learning
-- 2 years Python Experience
 - 190K+ views on Medium Blog (part of Towards Data Science)
 - Top 8-20% in 3 Kaggle competition (total 12)
 - 6th rank in Python Hackerrank
 - Site Moderator of Stack Overflow
-- Top 8 % in Stack Overflow this Year
+- Top 20 % in python answers in Stack Overflow this Year
 - 70+ Open source contributions on GitHub
 
-## About
-
-I love all things related to machine learning/Big Data/Salesforce.. I also love to build stuff for the web and with Python.
-
-I also occasionally Blogs at Medium and answer questions on Stack Overflow 
-
-
-## Work Experience
+## Professional Experience
 - Technical Consultant at Tectonic 
   - Salesforce.com
   - Google Cloud Platform
 - Data Engineer at Botsify
 - Data Intern at Qordata
 
-## Projects
-- Train DCNN
+## Freelance Projects
+- Deep Convolutional Neural Network for multi class Text classification
+- Dynamic Web Crawler with Automation to download the specific pdf files for multiple websites.
+- Google Assistant Application with Cloud Firestore
+- Automated Data Visulazation on dynamic CSV files generated from Cloud Database
+- ETL to extract Data from Dynamic Image files into Excel
+And many more....
 
 ## Blogs
 - [Text Summarization with Python](https://towardsdatascience.com/text-summarization-in-python-76c0a41f0dc4)
@@ -38,8 +42,7 @@ I also occasionally Blogs at Medium and answer questions on Stack Overflow
 - [Web Services in Python](https://medium.com/@umerfarooq_26378/web-services-in-python-ef81a9067aaf)
 - [Python for Pdf](https://towardsdatascience.com/python-for-pdf-ef0fac2808b0)
 - [Python for Pdf](https://towardsdatascience.com/python-for-pdf-ef0fac2808b0)
-
-
+And many more....
 
 ## Contact Me
 
