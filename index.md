@@ -10,7 +10,7 @@ I also occasionally Blogs at Medium and answer questions on Stack Overflow .
 ## Highlights
 
 - Salesforce.com Consultant
-- Google Cloud Certified
+- Google Cloud Certified (coursera)
 - Top 8 % in Stack Overflow this Year
 - 25+ Certifications in Data Science ,Machine Learning,Deep learning
 - 190K+ views on Medium Blog (part of Towards Data Science)
